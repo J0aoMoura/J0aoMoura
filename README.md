@@ -1,6 +1,6 @@
 - 🔭 I’m currently studying at Isep
 - 🌱 I’m currently learning Agile Software Development
-- 📫 How to reach me: @1252155@isep.ipp.pt
+- 📫 How to reach me: 1252155@isep.ipp.pt
 - 😄 Pronouns: he/him
 
 <!--
