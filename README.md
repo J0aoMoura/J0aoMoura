@@ -1,4 +1,7 @@
-## Hi there 👋
+- 🔭 I’m currently studying at Isep
+- 🌱 I’m currently learning Agile Software Development
+- 📫 How to reach me: @1252155@isep.ipp.pt
+- 😄 Pronouns: he/him
 
 <!--
 **J0aoMoura/J0aoMoura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
